@@ -1,0 +1,28 @@
+A data pipeline is a series of data processing steps. If the data is not currently loaded into the data platform, then it is ingested at the beginning of the pipeline. Then there are a series of steps in which each step delivers an output that is the input to the next step. This continues until the pipeline is complete. In some cases, independent steps may be run in parallel.
+
+1. What are the leading candidates for vaccination/treatment as evidenced by: 
+    1. results obtained so far, 
+    2. number and nature of subjects enrolled in the trials, 
+    3. source of funding for the trials, 
+    4. experience of the biotech/pharma company that is the innovator, 
+    5. mechanism of action for the proposed drug/vaccine
+2. What are the limitations of leading vaccine/therapy candidates such as:
+    1. Demography they’ve been tested on: E.g., age group, gender, race/nationality, social strata
+    2. Ease of distribution and administration: E.g., number of visits to the clinic needed per patient, storage conditions needed to keep the drug potent and stable, devices needed for administering the medicine etc.
+    3. Manufacturing capacity available to ramp-up production
+3. What are the co-morbidities that complicate COVID treatment and what treatment options are being tested in each case?
+
+
+--answers for the above questions
+
+1.350,716 research studies in all 50 states and in 216 countries.
+ClinicalTrials.gov  database
+ we will collect the data form the patients across the world and keep tracking of vaccince developing by biotech companies, then we will upload into the dashboard i.e we are showing a real-time based information to the users. at the same time we are getting quries form the patients and cases.
+we will keep tracking with active cases also.the funding source we be both private and govenament.
+
+2. the clinical trails have been done in all age groups of people and they will be having dose of vaccine. keep tracking of all patients who got covid-19 and providing a vaccine with keeping store of vaccine in mine. at the same time patients are in large number so manifacturing capability should be high, aquring govenament support to produce high number of vaccines.
+
+3.To evaluate the risk of serious adverse outcomes in patients with COVID-19 by stratifying the comorbidity status.Among laboratory confirmed cases of COVID-19, patients with any comorbidity yielded poorer clinical outcomes than those without. A greater number of comorbidities also correlated with poorer clinical outcomes.this should be take care.
+
+
+
